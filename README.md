@@ -1,5 +1,3 @@
-Here’s a sample README for your GitHub project repository:
-
 ```markdown
 # Blogging Platform API
 
@@ -128,5 +126,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
    git commit -m "Added README file"
    git push origin main
    ```
-
-This README covers the necessary details such as project description, installation steps, API endpoints, and deployment instructions.
